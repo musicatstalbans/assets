@@ -14,9 +14,9 @@ The folder contains images of sponsors.
 
 [https://www.wdav.org](https://ww.wdav.org)
 
-Image name | Image
----------------------------- | ----------------------------------
-wdav_square.png | <img src="./wdav_square.png" width="100">
-wdav_transparent.png | <img src="./wdav_transparent.png" width="100">
-wdav_landscape.png | <img src="./wdav_landscape.png" width="100">
+## ASC
+
+[https://www.artsandscience.org/](https://www.artsandscience.org/)
+
+[ASC Guidelines](./FY20-ASC-Communications-Guidelines)
 

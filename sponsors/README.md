@@ -16,7 +16,7 @@ The folder contains images of sponsors.
 
 ## ASC
 
-[https://www.artsandscience.org/](https://www.artsandscience.org/)
+[https://www.CharlotteCultureGuide.com](https://www.CharlotteCultureGuide.com)
 
 [ASC Guidelines](./FY20-ASC-Communications-Guidelines.pdf)
 

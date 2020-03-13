@@ -13,4 +13,4 @@ The folder contains images of sponsors.
 ## WDAV
 
 [https://www.wdav.org](https://ww.wdav.org)
-![Square](./wdav_square.png)
+<img src="./wdav_square.png" width="100">

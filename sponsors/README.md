@@ -17,5 +17,6 @@ The folder contains images of sponsors.
 Image name | Image
 ---------------------------- | ----------------------------------
 wdav_square.png | <img src="./wdav_square.png" width="100">
-wdav_landscape.png | <img src="./wdav_landscape.png" width="100">
 wdav_transparent.png | <img src="./wdav_transparent.png" width="100">
+wdav_landscape.png | <img src="./wdav_landscape.png" width="100">
+

@@ -18,5 +18,5 @@ The folder contains images of sponsors.
 
 [https://www.artsandscience.org/](https://www.artsandscience.org/)
 
-[ASC Guidelines](./FY20-ASC-Communications-Guidelines)
+[ASC Guidelines](./FY20-ASC-Communications-Guidelines.pdf)
 

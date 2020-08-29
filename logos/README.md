@@ -1,3 +1,3 @@
 Official logos for M@SA
 
-![Logo](https://raw.githubusercontent.com/musicatstalbans/assets/master/logos/New/Logo/Transitional/Color/copy.png)
+![Logo](https://github.com/musicatstalbans/assets/blob/master/logos/New%20Logo%20Transitional%20Color%20copy.jpg)

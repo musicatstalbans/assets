@@ -8,3 +8,9 @@ Official logos for M@SA
 
 # No background (MASA Logo Web)
 ![Logo](https://github.com/musicatstalbans/assets/blob/master/logos/MASA%20Logo%20Web.png)
+
+# Fonts
+
+Civane - Norm Regular (86.9 pt for M, 65.53pt for remainder)
+Alisha Regular (@ sign - 206.32 pt)
+Austin Pen - Regular (subscript - 34.68pt - spacing[VA] 58)
